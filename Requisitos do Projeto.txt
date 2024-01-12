@@ -1,0 +1,14 @@
+Requisitos do Projeto
+
+criar uma nova planilha com as determinadas colunas, nesta ordem:
+
+1° - Name
+2° - Age
+3° - Sex
+4° - Pclass
+5° - Survived
+
+Filtando por estas somente pessoas do Sexo Feminino que estavam viajando de 1 classe e que sobreviveram ao terrível acidente. 
+
+Após separação, exportar arquivo no formato .csv
+
